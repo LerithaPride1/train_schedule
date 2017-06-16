@@ -1,0 +1,53 @@
+body {
+ background-color: #ffffff;
+ font-family: 'IM Fell French Canon SC', serif;
+ font-size: 18px;
+ color: #ffffff;
+}
+
+.jumbotron {
+	padding-top: 15px;
+	height: 200px;
+	background-color: #000000;
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 100%;
+	min-width: 630px;
+}
+
+.panel-body, h3.panel-title, .panel-heading, .btn  {
+	color: #ffffff;
+	font-family: 'IM Fell French Canon SC', serif;
+}
+
+.panel-body {
+	height: 100%;
+}
+
+.h1 {
+	text-align: center;
+} 
+
+h3 , .btn { 
+	background-color: #6380a0;
+    padding: 5px;
+}
+
+#logo {
+	float: left;
+}
+
+.form-group {
+	color: #000000;
+}
+
+th {
+	color: #000000;
+}
+
+td {
+	color: #000000;
+	font-size: 18px;
+	padding: 0px 10px;
+	color: #6380a0;
+}
